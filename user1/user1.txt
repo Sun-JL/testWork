@@ -1,3 +1,5 @@
 user1 write
 
 user1 add
+
+user2 add
